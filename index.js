@@ -2,4 +2,4 @@
 
 import quality from "./lib/quality";
 
-export default quality;
+module.exports = quality;
