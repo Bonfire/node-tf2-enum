@@ -1,0 +1,19 @@
+{
+  "name": "tf2-enum",
+  "version": "1.0.0",
+  "description": "Provides various TF2 enums for use with TF2-related Node.js projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bonfire/node-tf2-enum.git"
+  },
+  "author": "Baran Barut <baranb@knights.ucf.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bonfire/node-tf2-enum/issues"
+  },
+  "homepage": "https://github.com/Bonfire/node-tf2-enum#readme"
+}
