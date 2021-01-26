@@ -1,5 +1,6 @@
 "use strict";
 
-import quality from "./lib/quality";
+var QUALITY = require("./lib/quality.js");
+var CRAFTWEAPON = require("./lib/craftWeapon.js");
 
-module.exports = quality;
+module.exports = [QUALITY, CRAFTWEAPON];
