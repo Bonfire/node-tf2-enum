@@ -22,6 +22,6 @@ The following objects are exported as a part of this module:
 
 ```javascript
 var tf2Enum = require("tf2-enum");
-const unusualQuality = tf2Enum.QUALITY.COLOR.Unusual;
-const fanSKU = tf2enum.CRAFTWEAPON.SCOUT.PRIMARY["Force-A-Nature"];
+const unusualQuality = tf2Enum.QUALITY.COLOR.UNUSUAL;
+const fanSKU = tf2enum.CRAFTWEAPON.SCOUT.PRIMARY.FORCE_A_NATURE;
 ```
