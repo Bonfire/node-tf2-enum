@@ -15,8 +15,8 @@ The following objects are exported as a part of this module:
 
 ## Example
 
-```
-var tf2Enum = require('./index.js);
+```javascript
+var tf2Enum = require("./index.js");
 const unusualQuality = tf2Enum.QUALITY.COLOR.Unusual;
-const fanSKU = tf2enum.CRAFTWEAPON.SCOUT.PRIMARY["Force-A-Nature"]
+const fanSKU = tf2enum.CRAFTWEAPON.SCOUT.PRIMARY["Force-A-Nature"];
 ```
