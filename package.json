@@ -1,6 +1,6 @@
 {
   "name": "tf2-enum",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Provides various TF2 enums for use with TF2-related Node.js projects",
   "main": "index.js",
   "scripts": {
