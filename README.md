@@ -15,8 +15,15 @@ The following objects are exported as a part of this module:
   - ID
   - Color
 - Craft Weapons
-  - Scout
+  - Scout, Solider, Pyro, Demoman, Heavy, Engineer, Medic, Sniper
     - Primary
+    - Secondary
+    - Melee
+  - Spy
+    - Primary
+    - Melee
+    - PDA
+    - PDA2
 
 ## Example
 
