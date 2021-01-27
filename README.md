@@ -11,7 +11,7 @@ This project is actively being developed, and acts as an entry into creating npm
 
 The following objects are exported as a part of this module:
 
-- Quality (item qualities)
+- Quality
   - ID
   - Color
 - Craft Weapons
@@ -24,6 +24,8 @@ The following objects are exported as a part of this module:
     - Melee
     - PDA
     - PDA2
+- Stock Weapons
+  - Def Index Map
 
 ## Instalation
 
