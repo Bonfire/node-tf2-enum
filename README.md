@@ -26,6 +26,9 @@ The following objects are exported as a part of this module:
     - PDA2
 - Stock Weapons
   - Def Index Map
+  - Name Map
+- Strange Parts
+  - Def Index
 
 ## Instalation
 
