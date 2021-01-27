@@ -29,6 +29,8 @@ The following objects are exported as a part of this module:
   - Name Map
 - Strange Parts
   - Def Index
+- Sheens
+  - Killstreak Sheen Number
 
 ## Instalation
 
