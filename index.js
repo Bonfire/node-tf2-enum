@@ -7,6 +7,7 @@ const NOISEMAKER = require("./lib/noisemaker.js");
 const STRANGEPART = require("./lib/strangepart.js");
 const SHEEN = require("./lib/sheen.js");
 const KILLSTREAKER = require("./lib/killstreaker.js");
+const PAINT = require("./lib/paint.js");
 
 exports.QUALITY = QUALITY;
 exports.CRAFTWEAPON = CRAFTWEAPON;
@@ -15,3 +16,4 @@ exports.NOISEMAKER = NOISEMAKER;
 exports.STRANGEPART = STRANGEPART;
 exports.SHEEN = SHEEN;
 exports.KILLSTREAKER = KILLSTREAKER;
+exports.PAINT = PAINT;
