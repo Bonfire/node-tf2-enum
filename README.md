@@ -44,7 +44,16 @@ Via [NPM](https://www.npmjs.com/package/tf2-enum): `npm install tf2-enum`
 ## Example
 
 ```javascript
-var tf2Enum = require("tf2-enum");
-const unusualQuality = tf2Enum.QUALITY.COLOR.UNUSUAL;
-const fanSKU = tf2enum.CRAFTWEAPON.SCOUT.PRIMARY.FORCE_A_NATURE;
+> var tf2Enum = require("tf2-enum");
+undefined
+> tf2enum.PAINT.SKU.THE_BITTER_TASTE_OF_DEFEAT_AND_LIME
+'5054;6'
+> tf2enum.KILLSTREAKER.CEREBRAL_DISCHARGE
+'KE-2003'
+> tf2enum.QUALITY.ID.UNUSUAL
+5
+> tf2enum.STRANGEPART.KILLS_WHILE_EXPLOSIVE_JUMPING
+6022
+> tf2enum.CRAFTWEAPON.SCOUT.PRIMARY.SODA_POPPER
+'448;6'
 ```
