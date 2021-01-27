@@ -1,9 +1,11 @@
 "use strict";
 
-var QUALITY = require("./lib/quality.js");
-var CRAFTWEAPON = require("./lib/craftweapon.js");
-var STOCKWEAPON = require("./lib/stockweapon.js");
+const QUALITY = require("./lib/quality.js");
+const CRAFTWEAPON = require("./lib/craftweapon.js");
+const STOCKWEAPON = require("./lib/stockweapon.js");
+const NOISEMAKER = require("./lib/noisemaker.js");
 
 exports.QUALITY = QUALITY;
 exports.CRAFTWEAPON = CRAFTWEAPON;
 exports.STOCKWEAPON = STOCKWEAPON;
+exports.NOISEMAKER = NOISEMAKER;
