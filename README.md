@@ -31,6 +31,11 @@ The following objects are exported as a part of this module:
   - Def Index
 - Sheens
   - Killstreak Sheen Number
+- Killstreakers
+  - Killstreaker Effect Number
+- Paints
+  - SKU
+  - Hex Color Code
 
 ## Instalation
 
