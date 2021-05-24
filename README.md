@@ -37,7 +37,7 @@ The following objects are exported as a part of this module:
   - SKU
   - Hex Color Code
 
-## Instalation
+## Installation
 
 Via [NPM](https://www.npmjs.com/package/tf2-enum): `npm install tf2-enum`
 
